@@ -31,6 +31,14 @@
       "description": "Enter your Force Subscribe channel Username without @",
       "required": true
     },
+        "MONGO_URI": {
+
+      "description": "Enter Mongo URL",
+
+      "required": true
+
+    },
+        
     "SUDO": {
       "description": "Enter Bot Owners IDS",
       "required": true
